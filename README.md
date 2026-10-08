@@ -27,4 +27,4 @@ The goal of that first discussion is modest: agree on the work that matters, put
 
 This is a proposal for the team to discuss. It does not assign jobs to Andres, Jeff, or Nan, or assess anyone's performance. Daniel's role and decision-making authority should also be agreed explicitly.
 
-The guide and worksheet are an independent adaptation for Petchefy, not official EOS materials. The book remains copyrighted by its respective rights holders; this private repository does not grant redistribution rights.
+The guide and worksheet are an independent adaptation for Petchefy, not official EOS materials. The book remains copyrighted by its respective rights holders; this repository does not grant redistribution rights.
